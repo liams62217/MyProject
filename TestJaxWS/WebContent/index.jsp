@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-jira 2
-
+tuto 2
 </body>
 </html>
